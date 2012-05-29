@@ -1,3 +1,5 @@
+Added all() and remove() functionality.
+
 Cookies
 =======
 
